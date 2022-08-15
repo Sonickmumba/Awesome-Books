@@ -19,11 +19,11 @@
 - Here is the [link]() to my Zoom video
 ## Website Mockup 📱 💻 🖥️
 ![Screenshot](https://user-images.githubusercontent.com/106140591/184609188-0da682d0-7a4c-4811-a002-7cfe653aa246.png)
-![Screenshot](https://user-images.githubusercontent.com/106140591/184609324-e3837077-9e4c-4589-aedb-c53639d0dd27.png)
+![Screen-Shot-mobile](https://user-images.githubusercontent.com/106140591/184613809-f63f147f-adc5-47db-8c63-adf9e7b85ed2.png)
 
 ## Live Demo
 
-[Project : Awesome books](https://sonickmumba.github.io/Capstone-Project-1/)
+[Project : Awesome books](https://sonickmumba.github.io/Awesome-Books/)
 
 
 ## Authors
